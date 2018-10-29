@@ -1,0 +1,15 @@
+Casey Durham
+Network Systems
+
+1) Keep all files and folders in the same directory.  In order to run first enter directory in terminal
+and type "gcc Server.cpp -o server".
+
+2) In the same terminal in order to run the server type ./server. 
+
+3) From any web browser type into the url http://localhost:8888 or http://localhost:8888/index.html
+
+4) You can browse through the webpage now.  
+
+5) The server is non terminating so in order to properly exit then just type CTRL+C
+
+6) Enjoy my server. 
