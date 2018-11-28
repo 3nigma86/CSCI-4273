@@ -1,0 +1,15 @@
+www.conference2013.m.marbigen.org,192.135.166.121
+ajax.aspnetcdn.com,152.199.4.33
+vbrant.eu,157.140.2.32
+vbrant.eu56,157.140.2.32
+scratchpads.eu,157.140.2.32
+maps.googleapis.com,172.217.12.42
+cdn.rawgit.com,151.139.237.11
+maps.gstatic.com,172.217.9.3
+fonts.googleapis.com,172.217.9.10
+fonts.gstatic.com,172.217.9.3
+checklist.onlineflora.cn,159.226.89.26
+www.etaxonomy.ac.cn,159.226.89.110
+detectportal.firefox.com,204.2.193.139
+metacopepod.hcmr.gr,192.135.166.117
+www.wikia.com,151.101.128.194
