@@ -1,0 +1,19 @@
+Casey Durham
+Assignment 4 Distributed File System
+
+1) Download available files
+
+2) Distribute DFS files to where there server will host.
+
+3) Configure config file correctly for proper IP addresses and ports to run the servers on.
+
+4) Set up client side configuration file in the same format as available config files for Alice and Bob. 
+
+5) Run gcc -o dfc dfc.cpp -L/usr/include/ -lssl -lcrypto to make sure ssl library included for md5 hashing. 
+
+6)Run servers by ./dfs[servernumber] [portnumber].  
+
+7)Run Client operation by typing ./dfc [configuration file]
+
+
+
